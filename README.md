@@ -28,8 +28,6 @@
 
 I'm a **Fullstack Software Engineer** and **Cybersecurity Specialist** passionate about building secure, performant, and scalable applications that solve real-world problems.
 
-[![GitHub followers](https://img.shields.io/github/followers/hassansayed-1?label=Follow&style=social)](https://github.com/hassansayed-1)
-[![GitHub User's stars](https://img.shields.io/github/stars/hassansayed-1?label=Total%20Stars&style=social)](https://github.com/hassansayed-1)
 
 </div>
 
