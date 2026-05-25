@@ -18,25 +18,7 @@
       </linearGradient>
     </defs>
 
-    <!-- Background -->
-    <rect width="600" height="150" rx="12" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.5"/>
-
-    <!-- Decorative elements (Tech/Cyber lines) -->
-    <path d="M 30 25 L 120 25 L 140 45 L 250 45" stroke="#30363d" stroke-width="1" stroke-dasharray="4 4" />
-    <path d="M 570 125 L 480 125 L 460 105 L 350 105" stroke="#30363d" stroke-width="1" stroke-dasharray="4 4" />
     
-    <!-- Title -->
-    <text x="300" y="70" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="32" font-weight="800" fill="url(#textGrad)" text-anchor="middle">
-      HASSAN SAYED
-    </text>
-
-    <!-- Subtitle -->
-    <text x="300" y="100" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="14" font-weight="500" fill="#8b949e" letter-spacing="1.5" text-anchor="middle">
-      FULLSTACK DEVELOPER &amp; CYBERSECURITY ENGINEER
-    </text>
-
-    <!-- Separator Line -->
-    <rect x="100" y="115" width="400" height="2" rx="1" fill="url(#lineGrad)"/>
   </svg>
 </p>
 
@@ -44,7 +26,7 @@
 
 I am a **Fullstack Software Engineer** and **Cybersecurity Specialist** dedicated to building highly secure, performant, and scalable applications. My engineering philosophy revolves around a security-first design—bridging low-level systems architectures, modern web frameworks, and secure communication protocols.
 
-- 🛠️ **What I Do**: Fullstack Web Development, Embedded Systems Firmware, & Cryptographic Integrations.
+- 🛠️ **What I Do**: Fullstack Web Development, Cybersecurity Engineer, & Data Scientist.
 - 🔐 **My Focus**: Safe design patterns, client-side encryption, and resilient API architectures.
 - 💬 **Ask me about**: **React**, **TypeScript**, WebSockets, or Cryptography.
 
@@ -103,10 +85,7 @@ I am a **Fullstack Software Engineer** and **Cybersecurity Specialist** dedicate
 * **Tech Stack**: Assembly Language, Arduino, Hardware Timers
 * **Key Features**: A low-level firmware controller demonstrating real-time microcontroller state management, register allocation, and bare-metal interrupt handling.
 
-### 🤖 [Job Hunter Automation](https://github.com/hassansayed-1/Traffic-Light-Controller)
-> **AI-Powered Candidate Matcher**
-* **Tech Stack**: Python, Streamlit, Google Gemini API, Web Scraping
-* **Key Features**: Automates resume analysis, matches competencies to job requirements, and generates tailored cover letters and summaries via LLM reasoning.
+
 
 ---
 
