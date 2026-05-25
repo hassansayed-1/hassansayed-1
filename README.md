@@ -18,21 +18,7 @@
       </linearGradient>
     </defs>
     
-    <!-- Background -->
-    <rect width="600" height="200" fill="url(#bgGrad)" rx="10"/>
     
-    <!-- Decorative line -->
-    <line x1="50" y1="160" x2="550" y2="160" stroke="url(#lineGrad)" stroke-width="2"/>
-    
-    <!-- Main text -->
-    <text x="300" y="90" font-size="48" font-weight="bold" fill="url(#textGrad)" text-anchor="middle" font-family="Arial, sans-serif">
-      Hassan Sayed
-    </text>
-    
-    <!-- Subtitle -->
-    <text x="300" y="130" font-size="20" fill="#58a6ff" text-anchor="middle" font-family="Arial, sans-serif">
-      Fullstack Engineer | Cybersecurity Specialist | Builder
-    </text>
   </svg>
 </p>
 
@@ -161,16 +147,6 @@ I'm a **Fullstack Software Engineer** and **Cybersecurity Specialist** passionat
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassansayed-1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassansayed-1&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassansayed-1&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -204,10 +180,10 @@ I'm a **Fullstack Software Engineer** and **Cybersecurity Specialist** passionat
   <a href="https://github.com/hassansayed-1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/hassansayed-1" target="_blank">
+  <a href="https://linkedin.com/in/hassansayed1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hassan@example.com" target="_blank">
+  <a href="mailto:hasansayedd10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -221,5 +197,5 @@ I'm a **Fullstack Software Engineer** and **Cybersecurity Specialist** passionat
 </p>
 
 <p align="center">
-  Made with ❤️ by Hassan Sayed | Last Updated: 2026
+  Made by Hassan Sayed | Last Updated: 2026
 </p>
